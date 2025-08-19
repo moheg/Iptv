@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV" group-title="Iraq",Karbala TV
+
+#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV 1080p" group-title="Iraq",Karbala TV (1080p)
 https://ktvlive.online/stream/hls/ch2.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV 720p" group-title="Iraq",Karbala TV (720p)
+https://ktvlive.online/stream/hls/ch2_720.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV 480p" group-title="Iraq",Karbala TV (480p)
+https://ktvlive.online/stream/hls/ch2_480.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaTV.iq" tvg-name="Karbala TV 360p" group-title="Iraq",Karbala TV (360p)
+https://ktvlive.online/stream/hls/ch2_360.m3u8
